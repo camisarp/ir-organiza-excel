@@ -8,7 +8,7 @@ O **IR Organiza** foi desenvolvido com foco em **usabilidade, consistência dos 
 
 ## Objetivo
 
-Aplicar recursos do Excel a um problema prático: reunir dados cadastrais, financeiros e documentais em um único arquivo, com preenchimento orientado, controles de situação e visão consolidada do progresso.
+O objetivo do IR Organiza é reunir, em um único arquivo Excel, as informações cadastrais, financeiras e documentais necessárias à preparação da declaração do Imposto de Renda. A ferramenta oferece preenchimento orientado, acompanhamento de pendências e uma visão consolidada dos registros.
 
 O projeto foi criado como parte de um desafio prático da **DIO**, com desenvolvimento e personalização da interface, dos registros e dos painéis para compor meu portfólio.
 
@@ -80,7 +80,6 @@ O desafio reforçou a importância de testar a interação entre abas, manter a 
 
 **Desenvolvido por Camila Ribeiro Pinto**
 
-- [GitHub](https://github.com/camisarp)
 - Projeto desenvolvido para fins de **aprendizado e portfólio**, no contexto de um desafio de projeto da **DIO**.
 
 ---

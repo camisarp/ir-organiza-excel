@@ -80,6 +80,8 @@ O desafio reforçou a importância de testar a interação entre abas, manter a 
 
 **Desenvolvido por Camila Ribeiro Pinto**
 
+- [LinkedIn](https://www.linkedin.com/in/camila-ribeiro-pinto/)
+
 - Projeto desenvolvido para fins de **aprendizado e portfólio**, no contexto de um desafio de projeto da **DIO**.
 
 ---

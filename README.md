@@ -1,6 +1,6 @@
 # IR Organiza | Organizador de Informações para Imposto de Renda
 
-<p align="center"><img src="images/images/logo-ir-organiza.png" alt="Identidade visual do IR Organiza" width="700" /></p>
+<p align="center"><img src="images/logo-ir-organiza.png" alt="Identidade visual do IR Organiza" width="700" /></p>
 
 **Uma ferramenta em Excel para centralizar dados e acompanhar a organização dos documentos necessários à preparação da declaração do Imposto de Renda.**
 
@@ -70,61 +70,61 @@ As capturas abaixo mostram o fluxo real da ferramenta, com dados ilustrativos ut
 
 Painel de navegação com visão geral de rendimentos, bancos, documentos e pendências.
 
-![Tela inicial do IR Organiza](images/images/inicio.png)
+![Tela inicial do IR Organiza](images/inicio.png)
 
 ### Controle de rendimentos
 
 Tabela de lançamentos com indicadores, filtros, categorias e situação de cada registro.
 
-![Controle de rendimentos](images/images/rendimentos.png)
+![Controle de rendimentos](images/rendimentos.png)
 
 ### Resumo e indicadores
 
 Painel consolidado com cartões, gráficos comparativos, distribuição de documentos e barras de acompanhamento.
 
-![Dashboard de resumo do IR Organiza](images/images/resumo.png)
+![Dashboard de resumo do IR Organiza](images/resumo.png)
 
 ### Outras funcionalidades
 
 <details>
 <summary><strong>TITULAR — Cadastro do contribuinte e dependentes</strong></summary>
 
-![Cadastro do titular](images/images/titular.png)
+![Cadastro do titular](images/titular.png)
 
 </details>
 
 <details>
 <summary><strong>BANCOS — Contas, saldos e informes</strong></summary>
 
-![Cadastro bancário](images/images/bancos.png)
+![Cadastro bancário](images/bancos.png)
 
 </details>
 
 <details>
 <summary><strong>PAGAMENTOS — Despesas e reembolsos</strong></summary>
 
-![Controle de pagamentos](images/images/pagamentos.png)
+![Controle de pagamentos](images/pagamentos.png)
 
 </details>
 
 <details>
 <summary><strong>BENS E DIREITOS — Registro patrimonial</strong></summary>
 
-![Controle de bens e direitos](images/images/bens-e-direitos.png)
+![Controle de bens e direitos](images/bens-e-direitos.png)
 
 </details>
 
 <details>
 <summary><strong>DOCUMENTOS — Comprovantes recebidos e pendentes</strong></summary>
 
-![Controle de documentos](images/images/documentos.png)
+![Controle de documentos](images/documentos.png)
 
 </details>
 
 <details>
 <summary><strong>TABELAS AUXILIARES — Listas de validação</strong></summary>
 
-![Tabelas auxiliares](images/images/tabelas-auxiliares.png)
+![Tabelas auxiliares](images/tabelas-auxiliares.png)
 
 </details>
 
